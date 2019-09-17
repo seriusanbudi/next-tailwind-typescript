@@ -10,15 +10,15 @@ test('Format money with value = 1000', () => {
   expect(money(1000)).toBe("1,000.00");
 });
 
-test('Format money with comma value = 1000.23', () => {
+test('Format money with value = 1000.23', () => {
   expect(money(1000.23)).toBe("1,000.23");
 });
 
-test('Format money with round up = 1000.236', () => {
+test('Format money with round up', () => {
   expect(money(1000.236)).toBe("1,000.24");
 });
 
-test('Format money with round down = 1000.232', () => {
+test('Format money with round down', () => {
   expect(money(1000.232)).toBe("1,000.23");
 });
 
