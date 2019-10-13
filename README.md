@@ -15,7 +15,7 @@ This project using Jest for Javascript automatic testing, you can learn about Je
 1. Remove `/build` from `.gitignore`
 2. Run `yarn build`
 3. Deploy the result of build on folder `/build`
-2. Run `yarn start`
+4. Run `yarn start`
 
 ## Do you want to contribute?
 ### Branch Name
