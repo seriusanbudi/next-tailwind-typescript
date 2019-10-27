@@ -2,9 +2,9 @@
 
 ## Instalation Step on Development Environtment
 1. Clone this repository
-2. Make sure you have installed yarn. If not, you can see it here[here](https://yarnpkg.com)
+2. Make sure you have installed yarn. If not, you can see it [here](https://yarnpkg.com)
 3. Run `yarn install`, make sure you have stable internet connection
-4. Run `yarn dev`, enjoy the apps on development mode at [http://localhost:3000/][http://localhost:3000/]
+4. Run `yarn dev`, enjoy the apps on development mode at [http://localhost:3000/](http://localhost:3000/)
 
 ## Run Automatic Testing
 This project using Jest for Javascript automatic testing, you can learn about Jest [here](https://jestjs.io/)
