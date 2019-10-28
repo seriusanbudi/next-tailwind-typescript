@@ -9,9 +9,9 @@ const initialValue = {
 };
 
 const Register = () => {
-
+  
   const onSubmit = (values) => {
-    console.log(values);
+    console.log(values)
   };
 
   return (<Container>
@@ -35,6 +35,7 @@ const Register = () => {
         </div>
       </div>
     </div>
+
   </Container>)
 };
 
